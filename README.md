@@ -98,6 +98,7 @@ This hybrid approach leverages the strengths of both algorithms, making it suita
 
 
 CONCLUSION
+
  Secure Data Transfers with Encryption play a pivotal role in protecting sensitive information, ensuring data confidentiality, integrity, and availability. This study develops a secure hybrid model by pairing AES's efficiency with RSA's strong key management. By incorporating an Initialization Vector, the framework removes predictable patterns in the encrypted data, ensuring higher levels of confidentiality during transfer. future research should investigate advanced key management frameworks, such as: Key rotation mechanisms, Secure key storage (e.g., hardware security modules), Distributed key management systems.
 
  
